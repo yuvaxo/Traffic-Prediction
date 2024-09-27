@@ -4,7 +4,7 @@
 
 The **Traffic Flow Prediction Project** is designed to forecast traffic conditions based on historical vehicle data. This data includes the count of cars, bikes, buses, trucks, along with temporal data such as time of day and day of the week. The project aims to identify traffic patterns, predict congestion levels, and offer insights for urban traffic management. This model can help optimize traffic flow, reduce congestion, and contribute to sustainability goals by lowering emissions and fuel consumption through more efficient traffic control strategies.
 
-This project was developed by [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+This project is developed by [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ## Features of the Project
 - **Traffic Prediction**: Predicts traffic flow based on vehicle counts and temporal data.
